@@ -2,15 +2,8 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # probot
-- project: probot
-  role: Contributor
+- project: Dinet24 
+  role: Developer
   duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
-
-# GitHub Classroom
-- project: GitHub Classroom
-  role: Contributor
-  duration: 2015 &mdash; Present
-  url: "https://github.com/education/classroom"
-  description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+  url: "http://dinet24.ru/landing/"
+  description: E-commerce application like a constructor, where partner select template of his site, select catalog of products and suppliers for this products. Partner can set margin on every product, brand or catalog. Application communicate with supplier`s warehouse and returns information about quantity of the product or time of delivery this product from other warehouse. When system generate price for public catalog (catalog for customer) , it compares the prices of all suppliers and chooses partner’s strategy price (smallest, average, biggest) and multiplies this price on partner margin
