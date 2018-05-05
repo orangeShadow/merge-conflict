@@ -4,10 +4,10 @@
 - skill: Curious
   description: I like to learning , and i like to read tutorials and articles about my profession. My favorites portals are Laracast and Medium, but sometimes i look udacity and udemy. Also i like to make some excersices on Hakerrank or free Code Camp
 
-# Education
-- skill: Education
-  description: Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
-
-# Leadership
-- skill: Leadership
-  description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+# Communicable
+- skill: Communicable
+  description: I like to have a conversation. I accept critic but I always need a little bit of debate
+  
+# Plodding
+- skill: Plodding
+  description: If I decide, I will do it. I like to achieve my targets. Every day I improve myself and if you can help me with that, I will thank you
