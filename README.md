@@ -1,1 +1,11 @@
-## My resume create with GitHub Learning
+## Resume 
+### Back-end Developer
+
+Languages: 
+- PHP
+- JavaScript
+
+Frameworks:
+- Laravel
+- Vue.js
+
