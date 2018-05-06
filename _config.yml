@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Back-end Developer"
+resume_name:                    "Alexeev Anton"
 resume_title:                   "Back-end Developer"
 resume_contact_email:           "alexeev.sker@gmail.com"
 resume_contact_telephone:       "+7(909) 434-22-94"
@@ -32,6 +32,7 @@ resume_section_projects:        true
 resume_section_skills:          true
 resume_section_recognition:     false
 resume_section_links:           true
+resume_section_tags:            true
 resume_section_associations:    false
 # resume_section_interests:       true
 
