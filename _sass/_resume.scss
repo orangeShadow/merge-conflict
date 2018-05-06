@@ -165,6 +165,31 @@
       }
     }
   }
+  
+  .resume-item-tag-list {
+    padding:0;
+    list-style:none;
+    li {
+      float:left;
+      text-align: match-parent;      
+      a {
+        font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-weight: 300;
+        color: #333;
+        font-size: 24px;
+        border-radius: 5px;
+        padding: 3px 10px;
+        line-height: 1.25;
+        letter-spacing: -1px;
+        outline: none;
+        background-color: #f4f0ed;
+        text-decoration: none;
+        float: left;
+        margin: 0 4px 8px;
+        font-size: 20px;
+      }
+    }    
+  }
 
   .resume-item-copy { margin: .75rem 0 0; }
 }
