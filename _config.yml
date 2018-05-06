@@ -39,7 +39,7 @@ resume_section_associations:    false
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/orangeShadow"
-  resume_stackoverflow_url      "https://ru.stackoverflow.com/users/230776/orange-shadow"
+  resume_stackoverflow_url:      "https://ru.stackoverflow.com/users/230776/orange-shadow"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/anton-alexeev-34566970/"
   # resume_instagram_url:         "insert your Instagram URL here"
