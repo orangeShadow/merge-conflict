@@ -1,5 +1,5 @@
 # Site settings
-title: "Alexeev Anton Back-end developer"
+title: "Anton Alexeev Back-end developer"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Alexeev Anton"
+resume_name:                    "Anton Alexeev"
 resume_title:                   "Back-end Developer"
 resume_contact_email:           "alexeev.sker@gmail.com"
 resume_contact_telephone:       "+7(909) 434-22-94"
