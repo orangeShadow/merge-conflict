@@ -190,7 +190,11 @@
       }
     }    
   }
-
+  .resume-item-tag-list:after {
+    claer:both;
+    display:table;
+  }
+  
   .resume-item-copy { margin: .75rem 0 0; }
 }
 
