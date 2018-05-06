@@ -204,6 +204,26 @@
       </section>
       <!-- end Links -->
       {% endif %}
+      
+      {% if site.resume_section_tags %}
+      <!-- begin Tags -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Skills by Tag</h2>
+        </header>
+
+        <div class="resume-item">
+          <ul class="resume-item-tag-list">
+            {% for tag in site.data.tags %}
+            <li>{{tag}}</li>
+            {% endfor %}
+          </ul>
+        </div>
+
+      </section>
+      <!-- end Tags -->
+      {% endif %}
 
       {% if site.resume_print_social_links %}
       <!-- begin Print Social Links -->
