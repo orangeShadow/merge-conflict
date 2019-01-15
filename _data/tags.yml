@@ -1,6 +1,7 @@
  - tag: PHP
  - tag: JavaScript
  - tag: Laravel
+ - tag: Yii, Yii2
  - tag: Vue.js
  - tag: Socket.io
  - tag: Bootstrap 
@@ -9,7 +10,6 @@
  - tag: MySQL
  - tag: MongoDB
  - tag: PostgreSQL
- - tag: Yii
  - tag: Bitrix
  - tag: MVC
  - tag: OOP
