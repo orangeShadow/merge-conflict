@@ -1,21 +1,29 @@
  - tag: PHP
  - tag: JavaScript
- - tag: Laravel
- - tag: Yii, Yii2
- - tag: Vue.js
- - tag: Socket.io
- - tag: Bootstrap 
- - tag: Bulma
  - tag: SQL
- - tag: MySQL
- - tag: MongoDB
- - tag: PostgreSQL
+ - tag: Laravel
+ - tag: Yii
+ - tag: Symfony
  - tag: Bitrix
+ - tag: Vue.js
+ - tag: React
+ - tag: Socket.io
+ - tag: MySQL
+ - tag: PostgreSQL
+ - tag: Elasticsearch
+ - tag: MongoDB
  - tag: MVC
  - tag: OOP
  - tag: Node.js
+ - tag: strapi.io
  - tag: Bash script
  - tag: OAuth
  - tag: Promise
  - tag: Async/await
  - tag: JWT
+ - tag: Bootstrap
+ - tag: Framework7
+ - tag: Bulma
+ - tag: Design Patterns
+ - tag: Code review
+ - tag: git

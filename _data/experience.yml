@@ -1,24 +1,29 @@
 # Jobs
 
 # Job Title
-- company: OAO “Севкавэлектроремонт”
+- company: OAO "Sevkavelectroremont"
   position: Engineer-programmer
   duration: October, 2007 &mdash; January, 2012
   summary: Automated stands creation for test active still, CNC machins pars designinig, Development and maintaining the [website](http://sker.ru)
-  
+
 # Job Title
-- company: ЗАО “Эектро-Ком”
+- company: ZAO “Electro-com"
   position: Web Developer
   duration: March, 2012 &mdash; December, 2012
   summary: Maintain CRM system with Staff, Client, Billing, Hub information. Using PHP, JS, PostgreSQL, MySQL. Maintain local torrent website and website company. Using PHP, templates Twiig, MySQL. Export KPI charts from billions records PostgreSQL database with building complex performance custom queries. Using PL/pgSQL
-  
+
   # Job Title
-- company: ООО «ГудЛайн»
+- company: OOO «GoodLine»
   position: Web Developer
   duration: December, 2012 &mdash; August 2018
   summary: I created an application that processes all notification for helping call center give better answer for customer or escalate problem for another department. Also there is KPI that evaluate operators work, problems with sim card and services. Call-center SAS platform to sell for customers. With external orders export API. Using with Laravel and REST API. This Platform also supports customizable scheduling for generating and sending reports (XML, JSON, HTML). Callback SaaS platform which connects sites visitors with client’s managers using direct call to both manager and visitor phones via IP network (Asterisk or API Phone IP company).
 
-- company: ООО «Диорит»
+- company: OOO «Diorit»
   position: Developer
-  duration: December, 2016 &mdashl; until now
-  summary: work on project Dinet24, DMCN - Diorit Marketing Communication Network.
+  duration: December, 2016 &mdashl; November 2019
+  summary: Worked on project Dinet24 - multitenancy platform for ecommerce in b2b and b2c, DMCN - Diorit Marketing Communication Network, platform for encouragements sale managers in shop.
+
+- company: OOO «ArtWeb group»
+  position: Lead developer
+  duration: November, 2019 &mdashl; until now
+  summary: I work with a lot of project and technology: Bitrix, Laravel, Symfony, Yii, Node.js, Elasticsearch
